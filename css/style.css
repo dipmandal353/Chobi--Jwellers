@@ -786,7 +786,7 @@ a:focus {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  background-color: #ffffff;
+  background-color: #472525;
   height: 50px;
   padding-left: 15px;
   outline: none;
@@ -963,4 +963,3 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
-
